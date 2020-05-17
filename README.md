@@ -21,7 +21,7 @@ The following **extensions** are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-[Video Walkthrough](https://drive.google.com/file/d/1b-Xs4_SoP5g6BaMHm83Oul3Ig45Ffm-i/view?usp=sharing)
+[Video Walkthrough](https://photos.app.goo.gl/pDPsHyZJA4gcYs727)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
